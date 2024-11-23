@@ -20,10 +20,10 @@ JavaScript: Logic for temperature conversion and interactivity.
 https://github.com/user-attachments/assets/372e9df9-3db2-46a1-bdf5-9ad19fde91d6
 
 📂 Project Structure.
-├── index.html       # Main HTML file
-├── style.css        # Styling for the project
-├── script.js        # JavaScript logic for conversions
-└── assets/          # (Optional) Images or additional resources
+├── temperatureConverter.html       # Main HTML file
+├── temp.css                        # Styling for the project
+├── script.js                       # JavaScript logic for conversions
+└── assets/                         # (Optional) Images or additional resources
 
 Example Conversions:
 Celsius to Fahrenheit: 
